@@ -42,6 +42,10 @@ a.hover-1:hover {
     transform: translateY(-10px);
 }
 
+.header-margin-top {
+    margin-top: -5rem;
+}
+
 .w-70 {
     height: 90px;
     width: 90px;
@@ -53,6 +57,10 @@ a.hover-1:hover {
 
 .fonts1 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.rounded-7 {
+    border-radius:70%
 }
 
 
